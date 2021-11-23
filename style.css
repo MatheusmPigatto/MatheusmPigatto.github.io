@@ -1,0 +1,21 @@
+.title{
+    color: rgb(169, 214, 229);
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+.img {
+    width: 200px;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.body {    
+    background-color: rgb(1, 42, 74);
+    text-align: center;
+}
+
+.para {
+    color: rgb(169, 214, 229);
+    text-align: justify;
+}
+
