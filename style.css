@@ -19,3 +19,20 @@
     text-align: justify;
 }
 
+.list{
+    text-align: center;
+    color: rgb(162, 61, 67);
+}
+.button{
+    text-align: center;
+    text-decoration: none;
+    line-height: 15px;
+    background:rgb(162, 61, 67);
+    margin: 30px;
+    padding: 10px;
+    border-radius: 4px;
+    display: block;
+    width: 250px;
+    color: rgb(169, 214, 229);
+    font-weight: 300;
+}
